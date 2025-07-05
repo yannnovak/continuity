@@ -4,7 +4,7 @@
 
 &nbsp;
 
-## 🗝️ Album Artwork Decryption Guide
+## 🔐 Album Artwork Decryption Guide
 
 This repository contains the encrypted text featured on the album cover for *Continuity* by Yann Novak.
 
