@@ -40,5 +40,4 @@ To decrypt it:
 
 ## ℹ️ About the Project
 
-The album cover for *Continuity* contains an encrypted version of the description/essay that accompanies the album.  
-This guide allows fans to decrypt it without the hurdles of copying text from a JPG.
+The album cover for *Continuity* contains an encrypted version of the description/essay that accompanies the album. This guide allows fans to decrypt it without the hurdles of copying text from a JPG.
