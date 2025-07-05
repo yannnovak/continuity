@@ -13,7 +13,7 @@ To decrypt it:
 1. Visit: [https://encrypt-online.com/decrypt](https://encrypt-online.com/decrypt)
 2. Select **aes-256-cbc** as the encryption method (this should be the default)
 3. Paste the contents of `encrypted-text.txt` into the input field
-4. Use the album title — **Continuity** (capital **C**) — as the passphrase
+4. Use the album title — **`Continuity`** (capital **C**) — as the passphrase
 5. Click **Decrypt**
 
 &nbsp;
